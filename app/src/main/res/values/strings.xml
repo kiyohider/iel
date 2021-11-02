@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">IEL</string>
+    <string name="token">pk.eyJ1Ijoia2l5b2hpZGUiLCJhIjoiY2t2aTl4YWJ6MG9sYTJ1czM2dW9zeXJzNyJ9.KGJ54tP25jhzvMOyQmPBFg</string>
+    <string name="tracking_enabled">Tracking mode re-enabled</string>
+    <string name="tracking_already_enabled">Tracking already enabled. Move the map</string>
+    <string name="current_location">Lat: %1$f Long: %2$f</string>
 </resources>
